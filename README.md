@@ -7,3 +7,5 @@ This is something that happened while developing myFirstIssue branch.
 
 This is something I'm adding in my new branch. 
 
+Further edits. 
+
